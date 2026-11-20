@@ -1,3 +1,0 @@
-# OS-SIMULATOR Requirements
-# Project ini hanya menggunakan Python Standard Library.
-# Tidak ada dependency eksternal yang perlu diinstal.
