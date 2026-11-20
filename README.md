@@ -139,25 +139,27 @@ https://github.com/Olivernoeru/OS-SIMULATOR
 
 Jalankan perintah berikut melalui terminal:
 
-    powershell
+```powershell
 git clone https://github.com/Olivernoeru/OS-SIMULATOR.git
-
+```
 
 Masuk ke folder proyek:
 
-    powershell
+```powershell
 cd OS-SIMULATOR
+```
 
 ## 7. Menjalankan Program
 
 Jalankan program menggunakan perintah:
 
-    powershell
+```powershell
 python main.py
+```
 
 Setelah program dijalankan, menu utama akan ditampilkan:
 
-    text
+```text
 OS-SIMULATOR
 Simulator Penjadwalan CPU & Manajemen Alokasi Memori Dinamis
 
@@ -167,6 +169,7 @@ MENU UTAMA:
 3. Keluar
 
 Pilihan [1-3]:
+```
 
 Pilih menu sesuai simulasi yang ingin dijalankan.
 
@@ -190,8 +193,9 @@ Pengujian otomatis dibuat menggunakan modul `unittest` dari Python Standard Libr
 
 Untuk menjalankan seluruh pengujian, gunakan perintah:
 
-    powershell
+```powershell
 python -m unittest discover -v
+```
 
 Pengujian mencakup empat bagian utama:
 

@@ -1,4 +1,4 @@
-﻿# Python virtual environment
+# Python virtual environment
 venv/
 .venv/
 
@@ -20,7 +20,5 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-venv/
-__pycache__/
-*.pyc
+# Environment files
 .env
